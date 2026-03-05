@@ -7,6 +7,7 @@ Security research and pentesting utility scripts.
 * **phpshell.php** - 🚀 Advanced authenticated PHP Reverse Shell GUI.
 * **shell.sh** - 🐚 Simple Bash one-liner reverse shell.
 * **privesc.c** - 🔑 Privilege escalation exploit (Shared Library Hijacking).
+* **wildcard_exploit.sh** - Unix Wildcard Injection exploit targeting `tar` commands in cronjobs.
 
 ## 🛠️ Usage
 For `phpshell.php`, the default password is: `devidoff`
