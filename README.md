@@ -6,6 +6,7 @@ Security research and pentesting utility scripts.
 * **conv.py** - 🔑 Password list processor (Stripping -> MD5 -> Base64).
 * **phpshell.php** - 🚀 Advanced authenticated PHP Reverse Shell GUI.
 * **shell.sh** - 🐚 Simple Bash one-liner reverse shell.
+* **privesc.c** - 🔑 Privilege escalation exploit (Shared Library Hijacking).
 
 ## 🛠️ Usage
 For `phpshell.php`, the default password is: `devidoff`
